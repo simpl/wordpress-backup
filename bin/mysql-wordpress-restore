@@ -18,4 +18,4 @@ cd $BACKUP_DIR
 git pull
 
 # Dump the MySQL data
-mysql-u$DB_USER -p$DB_PASS $DB_NAME < $DB_FILE
+mysql -u$DB_USER -p$DB_PASS $DB_NAME < $DB_FILE

@@ -1,0 +1,562 @@
+# Copyright (C) 2017 Samuraithemes
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Samurai\n"
+"POT-Creation-Date: 2017-12-26 17:06+0545\n"
+"PO-Revision-Date: 2017-12-26 17:05+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:47
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: functions.php:51
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:52
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:110
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:112 functions.php:133
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:120
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:122
+msgid "Add Woocommerce widgets here."
+msgstr ""
+
+#: functions.php:131
+msgid "Footer"
+msgstr ""
+
+#: functions.php:141
+msgid "Home Widget Area Top"
+msgstr ""
+
+#: functions.php:143
+msgid "Add Slider Widget and Advertisement"
+msgstr ""
+
+#: functions.php:151
+msgid "Home Widget Area Bottom"
+msgstr ""
+
+#: functions.php:153 functions.php:163 functions.php:173 functions.php:183
+#: functions.php:193
+msgid "Add Advertisement Here."
+msgstr ""
+
+#: functions.php:161
+msgid "Archive Widget Area Top"
+msgstr ""
+
+#: functions.php:171
+msgid "Archive Widget Area Bottom"
+msgstr ""
+
+#: functions.php:181
+msgid "Single Post Widget Area Top"
+msgstr ""
+
+#: functions.php:191
+msgid "Single Post Widget Area Bottom"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29 samuraithemes/theme-tags.php:40
+#, php-format
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:35 samuraithemes/theme-tags.php:16
+#, php-format
+msgctxt "post author"
+msgid " %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:52 samuraithemes/theme-tags.php:52
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#. translators: 1: list of tags.
+#. translators: 1: list of categories.
+#. translators: 1: no of comments.
+#: inc/template-tags.php:55 inc/template-tags.php:62
+#: samuraithemes/theme-tags.php:55 samuraithemes/theme-tags.php:71
+#: samuraithemes/theme-tags.php:74 samuraithemes/theme-tags.php:77
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:72
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:89 template-parts/content-page.php:35
+#: template-parts/content-woo.php:25
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: index.php:39
+msgid "Recent Posts"
+msgstr ""
+
+#: samuraithemes/customizer/customizer-options/option-others.php:5
+msgid "Other Options"
+msgstr ""
+
+#: samuraithemes/customizer/customizer-options/option-others.php:21
+msgid "Theme Sidebar Position"
+msgstr ""
+
+#: samuraithemes/customizer/customizer-options/option-others.php:22
+msgid "Select Sidebar Postion. Select none to hide sidebar."
+msgstr ""
+
+#: samuraithemes/customizer/customizer-options/option-others.php:26
+msgid "Left"
+msgstr ""
+
+#: samuraithemes/customizer/customizer-options/option-others.php:27
+msgid "Right"
+msgstr ""
+
+#: samuraithemes/customizer/customizer-options/option-others.php:28
+msgid "None"
+msgstr ""
+
+#: samuraithemes/customizer/customizer-options/option-others.php:43
+msgid "Copyright Text"
+msgstr ""
+
+#: samuraithemes/customizer/options.php:5
+msgid "Samurai Options"
+msgstr ""
+
+#: samuraithemes/customizer/options.php:6
+msgid "Customize Samurai Theme"
+msgstr ""
+
+#: samuraithemes/filters.php:15
+msgid "Full Name *"
+msgstr ""
+
+#: samuraithemes/filters.php:20
+msgid "Email Address *"
+msgstr ""
+
+#: samuraithemes/filters.php:25
+msgid "Website"
+msgstr ""
+
+#: samuraithemes/filters.php:42
+msgid "comment_news comment-form"
+msgstr ""
+
+#: samuraithemes/filters.php:43
+msgid "Leave comment"
+msgstr ""
+
+#: samuraithemes/filters.php:46
+msgid ""
+"Your email address will not be published. Required fields are marked with *."
+msgstr ""
+
+#: samuraithemes/filters.php:48
+msgid "Comment"
+msgstr ""
+
+#: samuraithemes/filters.php:51
+msgid "btn btn-default submit-comment"
+msgstr ""
+
+#: samuraithemes/filters.php:52
+msgid "Post Comment"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: samuraithemes/helpers.php:22
+msgctxt "Work font: on or off"
+msgid "on"
+msgstr ""
+
+#: samuraithemes/hooks.php:57
+msgid "&lt;"
+msgstr ""
+
+#: samuraithemes/hooks.php:58
+msgid "&gt;"
+msgstr ""
+
+#: samuraithemes/hooks.php:115
+msgid "You might also like"
+msgstr ""
+
+#: samuraithemes/theme-tags.php:80
+msgid "Comment Closed"
+msgstr ""
+
+#: samuraithemes/theme-tags.php:96
+#: samuraithemes/third-party/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: samuraithemes/third-party/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: samuraithemes/third-party/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: samuraithemes/third-party/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: samuraithemes/third-party/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#: samuraithemes/third-party/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: samuraithemes/third-party/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: samuraithemes/third-party/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: samuraithemes/third-party/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: samuraithemes/third-party/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: samuraithemes/third-party/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: samuraithemes/third-party/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: samuraithemes/third-party/breadcrumbs.php:758
+#: samuraithemes/third-party/breadcrumbs.php:787
+#: samuraithemes/third-party/breadcrumbs.php:814
+#: samuraithemes/third-party/breadcrumbs.php:841
+#: samuraithemes/third-party/breadcrumbs.php:1180
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: samuraithemes/third-party/breadcrumbs.php:759
+#: samuraithemes/third-party/breadcrumbs.php:815
+#: samuraithemes/third-party/breadcrumbs.php:1184
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: samuraithemes/third-party/breadcrumbs.php:760
+#: samuraithemes/third-party/breadcrumbs.php:1188
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: samuraithemes/third-party/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: samuraithemes/widgets/homepage-widgets.php:23
+msgid "Displays Featured Post in Home Page. Place it in Home Widget Area Top."
+msgstr ""
+
+#: samuraithemes/widgets/homepage-widgets.php:26
+msgid "Samurai: Featured Post"
+msgstr ""
+
+#: samuraithemes/widgets/homepage-widgets.php:64
+msgid "Read More"
+msgstr ""
+
+#: samuraithemes/widgets/homepage-widgets.php:97
+msgid "Select Category: "
+msgstr ""
+
+#: samuraithemes/widgets/homepage-widgets.php:108
+msgid "Show Recent Posts"
+msgstr ""
+
+#: samuraithemes/widgets/homepage-widgets.php:112
+msgid "Only one latest post of the selected category will be displayed"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:21
+msgid "Displays Author Information. Place it in sidebar."
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:24
+msgid "Samurai: Author Info"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:90
+#: samuraithemes/widgets/sidebar-widgets.php:228
+msgid "Title: "
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:97
+msgid "Page:"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:105
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:127
+msgid "Displays Social Links. Place it in sidebar."
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:130
+msgid "Samurai: Social Widget"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:157
+msgid "Facebook"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:157
+#: samuraithemes/widgets/sidebar-widgets.php:162
+#: samuraithemes/widgets/sidebar-widgets.php:167
+#: samuraithemes/widgets/sidebar-widgets.php:172
+#: samuraithemes/widgets/sidebar-widgets.php:176
+#: samuraithemes/widgets/sidebar-widgets.php:181
+#: samuraithemes/widgets/sidebar-widgets.php:186
+msgid "Follow"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:162
+msgid "Twitter"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:167
+msgid "Google Plus"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:172
+msgid "Instagram"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:176
+msgid "Pinterest"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:181
+msgid "Snapchat"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:186
+msgid "VK"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:235
+msgid "Facebook Link:"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:242
+msgid "Twitter Link:"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:249
+msgid "Google Plus Link:"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:256
+msgid "Instagram Link:"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:263
+msgid "Pinterest Link:"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:270
+msgid "Snapchat Link:"
+msgstr ""
+
+#: samuraithemes/widgets/sidebar-widgets.php:277
+msgid "VK Link:"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:38
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:6
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:8
+msgid "Search"
+msgstr ""
+
+#: single.php:46
+msgid "&larr; %title"
+msgstr ""
+
+#: single.php:47
+msgid "%title &rarr;"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:38
+#: template-parts/content.php:44
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:33
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Samurai"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://samuraithemes.com/themes/samurai-free-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Samurai is minimal blog theme. This responsive theme is best to use for "
+"blog, travel, informative and life style coaches. It comes with option to "
+"change color of entire site, author profile widget, social links to connect "
+"with social networking sites and more.Samurai Blog Theme Contains Related "
+"Post, Featured Section.It Support Popular Plugin WooCommerce, Contact Form "
+"7, Easy Digital Download. View live demo at https://samuraithemes.com/wp?"
+"theme=samurai"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "samuraithemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://samuraithemes.com"
+msgstr ""

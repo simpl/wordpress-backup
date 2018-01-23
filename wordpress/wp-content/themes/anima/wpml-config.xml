@@ -1,0 +1,21 @@
+<wpml-config> 
+    <admin-texts>
+        <key name="anima_settings">
+			<key name="anima_lpposts_more" />
+			<key name="anima_lpslidershortcode" /> 
+			<key name="anima_lpslidertitle" />
+			<key name="anima_lpslidertext" />
+			<key name="anima_lpblockmaintitle" />
+			<key name="anima_lpblockmaindesc" />
+			<key name="anima_lpboxmaintitle1" />
+			<key name="anima_lpboxmaindesc1" />
+			<key name="anima_lpboxreadmore1" />
+			<key name="anima_lpboxmaintitle2" />
+			<key name="anima_lpboxmaindesc2" />
+			<key name="anima_lpboxreadmore2" />			
+			<key name="anima_copyright" />
+			<key name="anima_excerptdots" />
+			<key name="anima_excerptcont" />
+        </key>
+    </admin-texts>  
+</wpml-config>

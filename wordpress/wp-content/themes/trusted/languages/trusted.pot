@@ -1,0 +1,662 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Trusted 1.1.11\n"
+"POT-Creation-Date: 2017-11-21 14:23+0000\n"
+"PO-Revision-Date: 2017-07-14 11:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: uxlthemes.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:13
+msgid "Maybe try a search?"
+msgstr ""
+
+#: 404.php:15
+msgid "Browse our pages."
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:62
+msgid "Previous"
+msgstr ""
+
+#: comments.php:63
+msgid "Next"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:35
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:36
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:93
+msgid "Person Working on Laptop"
+msgstr ""
+
+#: functions.php:119
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:121
+msgid "Sidebar for posts, blog index and archives."
+msgstr ""
+
+#: functions.php:129
+msgid "Home Page Sidebar"
+msgstr ""
+
+#: functions.php:131
+msgid "Sidebar for the home page template."
+msgstr ""
+
+#: functions.php:139
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:141
+msgid "Sidebar for standard pages."
+msgstr ""
+
+#: functions.php:149
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:151
+msgid "Sidebar for WooCommerce pages."
+msgstr ""
+
+#: functions.php:159
+msgid "Top Bar"
+msgstr ""
+
+#: functions.php:161
+msgid "Add your own content above the header."
+msgstr ""
+
+#: functions.php:169
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:179
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:189
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:199
+msgid "Middle Footer"
+msgstr ""
+
+#: functions.php:225 functions.php:277
+msgctxt "Google fonts: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:240 functions.php:288
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions/customizer.php:24
+msgid "Site Title Color"
+msgstr ""
+
+#: functions/customizer.php:38
+msgid "Disable Static Front Page Content"
+msgstr ""
+
+#: functions/customizer.php:57
+msgid "Phone Number"
+msgstr ""
+
+#: functions/customizer.php:74
+msgid "Site Title UPPERCASE"
+msgstr ""
+
+#: functions/customizer.php:92
+msgid "Horizontal Offset (%)"
+msgstr ""
+
+#: functions/customizer.php:93
+msgid ""
+"Used to make the main focus of your image appear on smaller screens or where "
+"the image is wider than the visible screen. The default setting is 65%."
+msgstr ""
+
+#: functions/customizer.php:117
+msgid "Background Color"
+msgstr ""
+
+#: functions/customizer.php:118
+msgid ""
+"Only takes effect if not using an image or an image with some transparency."
+msgstr ""
+
+#: functions/customizer.php:136
+msgid "Color"
+msgstr ""
+
+#: functions/customizer.php:155
+msgid "No Color (Transparent Background)"
+msgstr ""
+
+#: functions/customizer.php:164 functions/theme-help.php:70
+msgid "Theme Options"
+msgstr ""
+
+#: functions/customizer.php:181
+msgid "Enable Reveal Animations"
+msgstr ""
+
+#: functions/customizer.php:198
+msgid "Primary Menu Centered"
+msgstr ""
+
+#: functions/customizer.php:216
+msgid "Primary Menu UPPERCASE"
+msgstr ""
+
+#: functions/customizer.php:233
+msgid "Show Search Icon In Menu"
+msgstr ""
+
+#: functions/customizer.php:234
+msgid ""
+"Search icon will only display if you have set your own menu as Primary Menu "
+"in Appearance >> Menus"
+msgstr ""
+
+#: functions/customizer.php:252
+msgid "Disable Headings Underline"
+msgstr ""
+
+#: functions/customizer.php:253
+msgid "H1, H2, H3, H4, H5, H6 headings in post/page content"
+msgstr ""
+
+#: functions/customizer.php:273
+msgid "Page Title Icon"
+msgstr ""
+
+#: functions/customizer.php:293
+msgid "Blog Title Icon"
+msgstr ""
+
+#: functions/customizer.php:313
+msgid "Shop Title Icon"
+msgstr ""
+
+#: functions/customizer.php:314
+msgid "Requires WooCommerce Plugin"
+msgstr ""
+
+#: functions/customizer.php:327 functions/customizer.php:701
+msgid "Sidebar Position"
+msgstr ""
+
+#: functions/customizer.php:331
+msgid "Left"
+msgstr ""
+
+#: functions/customizer.php:332
+msgid "Right"
+msgstr ""
+
+#: functions/customizer.php:344
+msgid "Header Style"
+msgstr ""
+
+#: functions/customizer.php:348
+msgid "Dark"
+msgstr ""
+
+#: functions/customizer.php:349
+msgid "Light"
+msgstr ""
+
+#: functions/customizer.php:366
+msgid "Primary Color"
+msgstr ""
+
+#: functions/customizer.php:386
+msgid "Secondary Color"
+msgstr ""
+
+#: functions/customizer.php:406
+msgid "Text Color"
+msgstr ""
+
+#: functions/customizer.php:426
+msgid "Headings Color"
+msgstr ""
+
+#: functions/customizer.php:435
+msgid "Typography"
+msgstr ""
+
+#: functions/customizer.php:446
+msgid "Header"
+msgstr ""
+
+#: functions/customizer.php:459
+msgid "Navigation"
+msgstr ""
+
+#: functions/customizer.php:472
+msgid "Page Title"
+msgstr ""
+
+#: functions/customizer.php:485
+msgid "Content"
+msgstr ""
+
+#: functions/customizer.php:498
+msgid "Headings"
+msgstr ""
+
+#: functions/customizer.php:511
+msgid "Footer"
+msgstr ""
+
+#: functions/customizer.php:521
+msgid "Static Homepage Options"
+msgstr ""
+
+#: functions/customizer.php:531
+msgid "Featured Services"
+msgstr ""
+
+#: functions/customizer.php:532
+msgid ""
+"By default this displays the 3 most recent posts. To override this, select a "
+"page for the first feature."
+msgstr ""
+
+#: functions/customizer.php:549
+msgid "Activate Featured Section"
+msgstr ""
+
+#: functions/customizer.php:566
+msgid "Enable 'Read More' Buttons"
+msgstr ""
+
+#: functions/customizer.php:588
+msgid "Feature "
+msgstr ""
+
+#: functions/customizer.php:609
+msgid "Icon"
+msgstr ""
+
+#: functions/customizer.php:627 functions/customizer.php:691
+msgid "Select Page"
+msgstr ""
+
+#: functions/customizer.php:628
+msgid ""
+"Displays title and excerpt of selected page. You can add an optional hand-"
+"crafted excerpt in the page editor (make sure []excerpt is checked in Screen "
+"Options)."
+msgstr ""
+
+#: functions/customizer.php:638
+msgid "About Section"
+msgstr ""
+
+#: functions/customizer.php:639
+msgid "Displays title, excerpt and featured image of selected page."
+msgstr ""
+
+#: functions/customizer.php:656
+msgid "Activate About Section"
+msgstr ""
+
+#: functions/customizer.php:673
+msgid "Enable 'Read More' Button"
+msgstr ""
+
+#: functions/customizer.php:705
+msgid "Image Left"
+msgstr ""
+
+#: functions/customizer.php:706
+msgid "Image Right"
+msgstr ""
+
+#: functions/customizer.php:707
+msgid "Stacked"
+msgstr ""
+
+#: functions/customizer.php:708
+msgid "Stacked (Centered)"
+msgstr ""
+
+#: functions/customizer.php:717
+msgid "Shop Tabs"
+msgstr ""
+
+#: functions/customizer.php:736
+msgid "Activate Shop Tabs"
+msgstr ""
+
+#: functions/customizer.php:737
+msgid "Requires WooCommerce Plugin."
+msgstr ""
+
+#: functions/customizer.php:764
+msgid "Home Page Shop Tabs"
+msgstr ""
+
+#: functions/customizer.php:774
+msgid "Call-to-action Panel"
+msgstr ""
+
+#: functions/customizer.php:775
+msgid "Displays phone number and optional button link to selected page."
+msgstr ""
+
+#: functions/customizer.php:792
+msgid "Activate Call-to-action Panel"
+msgstr ""
+
+#: functions/customizer.php:810
+msgid "Select Page For Button Link"
+msgstr ""
+
+#: functions/customizer.php:827
+msgid "Background Image"
+msgstr ""
+
+#: functions/customizer.php:836 functions/customizer.php:847
+#: functions/customizer.php:909
+msgid "Go Pro"
+msgstr ""
+
+#: functions/customizer.php:838 functions/theme-help.php:86
+msgid ""
+"Upgrade to Trusted Pro for even more cool features and customization options."
+msgstr ""
+
+#: functions/customizer.php:892
+msgid "More options available"
+msgstr ""
+
+#: functions/customizer.php:901
+msgid "Documentation"
+msgstr ""
+
+#: functions/extras.php:33
+msgid "Create your Primary Menu here"
+msgstr ""
+
+#: functions/extras.php:64 functions/extras.php:700 functions/extras.php:731
+#: functions/extras.php:787
+msgid "Read More"
+msgstr ""
+
+#: functions/extras.php:332 functions/extras.php:345
+msgid "Search for:"
+msgstr ""
+
+#: functions/extras.php:337
+msgid "All"
+msgstr ""
+
+#: functions/extras.php:345
+msgid "Search "
+msgstr ""
+
+#: functions/extras.php:387
+msgid "Login"
+msgstr ""
+
+#: functions/extras.php:388
+msgid "Register"
+msgstr ""
+
+#. translators: %1$s: user display name, %2$s: logout url
+#: functions/extras.php:435 functions/extras.php:467
+#, php-format
+msgid "Hello %1$s (not %1$s? "
+msgstr ""
+
+#: functions/extras.php:435 functions/extras.php:467
+msgid "Log out"
+msgstr ""
+
+#: functions/extras.php:435 functions/extras.php:467
+msgid " )"
+msgstr ""
+
+#: functions/extras.php:640
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: functions/extras.php:643
+msgid "404 Error"
+msgstr ""
+
+#: functions/extras.php:919
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: functions/extras.php:919
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: functions/extras.php:921
+#, php-format
+msgid "Theme: %2$s by %1$s"
+msgstr ""
+
+#: functions/extras.php:949
+msgid "Recent"
+msgstr ""
+
+#: functions/extras.php:955
+msgid "Featured"
+msgstr ""
+
+#: functions/extras.php:961
+msgid "Sale"
+msgstr ""
+
+#: functions/extras.php:967
+msgid "Top Selling"
+msgstr ""
+
+#: functions/extras.php:973
+msgid "Top Rated"
+msgstr ""
+
+#: functions/template-tags.php:36
+msgid "No Comments"
+msgstr ""
+
+#: functions/template-tags.php:38
+msgid " Comments"
+msgstr ""
+
+#: functions/template-tags.php:40
+msgid "1 Comment"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: functions/template-tags.php:61
+msgid ", "
+msgstr ""
+
+#. translators: %s: Name of current post
+#: functions/template-tags.php:76 template-parts/content-page.php:27
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: functions/theme-help.php:19 functions/theme-help.php:32
+#, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr ""
+
+#: functions/theme-help.php:19
+msgid "Theme Help"
+msgstr ""
+
+#: functions/theme-help.php:38
+msgid "Theme Links"
+msgstr ""
+
+#: functions/theme-help.php:39
+msgid "Theme Page"
+msgstr ""
+
+#: functions/theme-help.php:40
+msgid "Theme Demo"
+msgstr ""
+
+#: functions/theme-help.php:41 functions/theme-help.php:57
+msgid "Theme Documentation"
+msgstr ""
+
+#: functions/theme-help.php:42
+msgid "Theme Support"
+msgstr ""
+
+#: functions/theme-help.php:43
+msgid "Rate this theme"
+msgstr ""
+
+#: functions/theme-help.php:50
+#, php-format
+msgid "Getting Started with %s"
+msgstr ""
+
+#: functions/theme-help.php:60
+msgid ""
+"Do you need help to setup, configure and configure this theme? Check out the "
+"extensive theme documentation on our website."
+msgstr ""
+
+#: functions/theme-help.php:64
+#, php-format
+msgid "View %s Documentation"
+msgstr ""
+
+#: functions/theme-help.php:73
+#, php-format
+msgid "%s makes use of the Customizer for the theme settings."
+msgstr ""
+
+#: functions/theme-help.php:77
+msgid "Customize Theme"
+msgstr ""
+
+#: functions/theme-help.php:83
+msgid "Upgrade"
+msgstr ""
+
+#: functions/theme-help.php:90
+msgid "GO PRO"
+msgstr ""
+
+#: functions/theme-help.php:112
+#, php-format
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr ""
+
+#: functions/theme-help.php:112
+msgid "Trusted Review"
+msgstr ""
+
+#: functions/theme-help.php:112
+msgid "rate it"
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:15
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:16 template-parts/content-single.php:21
+#: template-parts/content.php:34
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:40
+msgid "Continue Reading"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Trusted"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://uxlthemes.com/theme/trusted"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "uXL Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://uxlthemes.com"
+msgstr ""

@@ -1,0 +1,128 @@
+ul.trusted-multicheck-sortable-list .trusted-multicheck-sortable-handle{
+	float: right;
+	cursor: move;
+}
+ul.trusted-multicheck-sortable-list li{
+	padding: 7px;
+	border: 1px solid #e5e5e5;
+	background: #fafafa;
+}
+.trusted-hideme{
+	display: none !important;
+}
+
+.customize-control select{
+	width: 98%;
+}
+
+#customize-theme-controls .accordion-section-content{
+	background: #FFF;
+}
+
+.trusted-accordion-section-title{
+	color: #fff;
+	font-size: 110%;
+	padding: 10px 10px 11px 14px;
+	line-height: 21px;
+	background: #00bc96;
+	margin: 0 -12px 0;
+}
+.trusted-accordion-section-paragraph{
+	color: #fff;
+	padding: 0px 10px 11px 14px;
+	line-height: 16px;
+	background: #00bc96;
+	margin: 0 -12px 0;
+}
+
+/*Theme Info*/
+.trusted-info{
+	margin-top: 10px;
+}
+
+.trusted-info a{
+	background: #00bc96;
+	padding: 5px 10px;
+	color: #FFF;
+	text-align: center;
+	display: block;
+	margin-top: 5px;
+	line-height: 1.2;
+	box-shadow: none;
+	opacity: 1;
+}
+
+.trusted-info a:hover{
+	opacity: 0.8;
+}
+
+/*FontAwesome Icon List*/
+.type-icon{
+	overflow: hidden;
+}
+
+.selected-icon{
+	background: #F6F6F6;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	border: 1px solid #CCC;
+	position: relative;
+	margin-right: 30px;
+	cursor: pointer;
+	font-size: 22px;
+}
+
+.selected-icon span{
+	position: absolute;
+	background: #F6F6F6;
+	right: -30px;
+	top: -1px;
+	height: 30px;
+	width: 30px;
+	border: 1px solid #CCC;
+	font-size: 18px;
+}
+.selected-icon span:hover{
+	color: #000;
+	font-weight: bold;
+}
+
+.icon-list{
+	height: 215px;
+	overflow-y: scroll;
+	font-size: 14px;
+	background: #F6F6F6;
+	border: 1px solid #CCC;
+	border-right: 0;
+	border-top: 0;
+	display: none;
+	cursor: pointer;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+.icon-list li{
+	float: left;
+	padding-left: 7px;
+	width: 90%;
+	text-align: left;
+	line-height: 26px;
+}
+
+.icon-list li i{
+	margin: 0 10px 0 0;
+	min-width: 30px;
+	font-size: 18px;
+}
+
+.icon-list li:hover{
+	background: #333;
+	color: #FFF;
+}
+
+.icon-list li.icon-active{
+	background: #0073aa;
+	color: #FFF;
+}

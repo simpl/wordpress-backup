@@ -1,0 +1,20 @@
+#!/bin/bash
+
+cd `dirname $0`
+
+BACKUP_DIR="../mysql"
+
+# MySQL database credentials
+DB_USER="wordpress"
+DB_PASS="wordpress-pwd"
+DB_NAME="wordpress"
+DB_FILE="wordpress.sql"
+
+# Create the archive and the MySQL dump
+mkdir -p $BACKUP_DIR
+cd $BACKUP_DIR
+
+# Dump the MySQL data
+mysqldump -u$DB_USER -p$DB_PASS $DB_NAME > $DB_FILE
+
+git-push 'Update MySQL dump'

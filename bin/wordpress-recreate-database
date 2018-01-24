@@ -1,0 +1,14 @@
+#!/bin/bash
+
+cd `dirname $0`
+
+# MySQL database credentials
+DB_USER="wordpress"
+DB_PASS="wordpress-pwd"
+DB_NAME="wordpress"
+
+## NOTE : Need to add security here
+
+# Dump the MySQL data
+mysql -u$DB_USER -p$DB_PASS -e "DROP DATABASE $DB_NAME;"
+mysql -u$DB_USER -p$DB_PASS -e "CREATE DATABASE $DB_NAME;"

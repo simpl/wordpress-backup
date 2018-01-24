@@ -93,7 +93,7 @@ define('SITE_ID_CURRENT_SITE', 1);
 define('BLOG_ID_CURRENT_SITE', 1);
 
 /** Repairing DB tables **/
-//define('WP_ALLOW_REPAIR', true);
+define('WP_ALLOW_REPAIR', true);
 
 /* That's all, stop editing! Happy blogging. */
 

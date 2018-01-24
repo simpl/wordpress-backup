@@ -84,8 +84,14 @@ define( 'WP_DEBUG', false );
 /** Allows direct installation of themes **/
 define( 'FS_METHOD', 'direct');
 
-/** Allows hosting multiple sites on one server **/
+/** Multisite options **/
 define( 'WP_ALLOW_MULTISITE', true );
+define( 'MULTISITE', true);
+define( 'SUBDOMAIN_INSTALL', false);
+define( 'DOMAIN_CURRENT_SITE', 'mclyne.com');
+define( 'PATH_CURRENT_SITE', '/');
+define( 'SITE_ID_CURRENT_SITE', 1);
+define( 'BLOG_ID_CURRENT_SITE', 1);
 
 /* That's all, stop editing! Happy blogging. */
 

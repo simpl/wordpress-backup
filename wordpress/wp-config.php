@@ -93,6 +93,12 @@ define( 'PATH_CURRENT_SITE', '/');
 define( 'SITE_ID_CURRENT_SITE', 1);
 define( 'BLOG_ID_CURRENT_SITE', 1);
 
+/** Cookies (so logins can work on multisites) **/
+define('ADMIN_COOKIE_PATH', '/');
+define('COOKIE_DOMAIN', '');
+define('COOKIEPATH', '');
+define('SITECOOKIEPATH', '');
+
 /** Repairing DB tables **/
 define('WP_ALLOW_REPAIR', true);
 
